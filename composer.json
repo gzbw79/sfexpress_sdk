@@ -1,0 +1,21 @@
+{
+    "name": "root/sfexpress_sdk",
+    "description": "顺丰SDK",
+    "type": "library",
+    "require": {
+        "php": "7.2.*",
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gzlbw\\sfexpress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Li Bo Wen",
+            "email": "gzbw79@163.com"
+        }
+    ]
+}
