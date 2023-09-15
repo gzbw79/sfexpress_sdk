@@ -1,5 +1,5 @@
 {
-    "name": "root/sfexpress_sdk",
+    "name": "gzlbw/sfexpress_sdk",
     "description": "顺丰SDK",
     "type": "library",
     "require": {
